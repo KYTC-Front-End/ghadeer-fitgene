@@ -51,7 +51,7 @@ nav ul a{
     color: #ffffff;
 }
 nav ul a:hover{
-	color: #27C0FE;
+	color: #9edbf3;
 }
 nav ul a li{
 	list-style: none;
@@ -59,7 +59,7 @@ nav ul a li{
 #hero-contarner{
     position: relative;
     height: 60vh;
-	background: #27C0FE;
+	background: #ebf4f7;
 	position: relative;
 }
 /* #hero-contarner img{
@@ -75,7 +75,7 @@ nav ul a li{
     text-align: center;
 }
 .hero-para h1{
-   color: #ffffff;
+   color: #000000;
    text-align: center;
    line-height: 50px;
    font-size: x-large;
@@ -94,7 +94,7 @@ nav ul a li{
 }
   
 #feature-container{
-    background-color:#27C0FE;
+    background-color:#ebf4f7;
     position: relative;
     display: flex;
     justify-content: center;
@@ -106,21 +106,25 @@ width:300px;
 height: 200px;
 margin: 20px;
 border-radius: 20px;
+border: 3px double #082A5B ;
+
 }
 #feature-seconditem{
-    background-color: #FCDC4C;
+    background-color: #078b71;
     width:300px;
     height: 200px;
     margin: 20px;
     border-radius: 20px;
+    /* border: 3px double #FCDC4C ; */
 
 }
 #feature-thireditem{
-    background-color:#00C489 ;
+    background-color:#ce8600 ;
     width:300px;
     height: 200px;
     margin: 20px;
     border-radius: 20px;
+    /* border: 3px double #00C489 ; */
 
 }
 #feature-container img{
@@ -135,7 +139,7 @@ border-radius: 20px;
     text-align: center;
 }
 #how-section{
-    background-color:#27C0FE;
+    background-color:#ebf4f7;
     opacity: 0.9;
     position: relative;
     display: flex;
@@ -176,7 +180,7 @@ border-radius: 20px;
     opacity: 0.9;
 }
 #says-contarner{
-    background-color:#27C0FE;
+    background-color:#ebf4f7;
     position: relative;
     display: flex;
     justify-content: center;
